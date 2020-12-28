@@ -6,10 +6,10 @@ with open("README.md", "r") as fh:
 
 setup(
     name="sentry-feishu",
-    version='v5.0',
+    version='v1.0',
     author='yjy',
     author_email='yangjiayi@accesscorporate.com.cn',
-    url='https://github.com/15058126273/sentry-feishu',
+    url='https://github.com/DC-ET/sentry-feishu',
     description='A Sentry extension which send errors stats to FeiShu',
     long_description=long_description,
     long_description_content_type="text/markdown",

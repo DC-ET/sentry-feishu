@@ -13,13 +13,13 @@ class FeiShuPlugin(NotificationPlugin):
     Sentry plugin to send error counts to FeiShu.
     """
     author = 'yjy'
-    author_url = 'https://github.com/15058126273/sentry-feishu'
+    author_url = 'https://github.com/DC-ET/sentry-feishu'
     version = sentry_feishu.VERSION
     description = 'Send error counts to FeiShu.'
     resource_links = [
-        ('Source', 'https://github.com/15058126273/sentry-feishu'),
-        ('Bug Tracker', 'https://github.com/15058126273/sentry-feishu/issues'),
-        ('README', 'https://github.com/15058126273/sentry-feishu/blob/master/README.md'),
+        ('Source', 'https://github.com/DC-ET/sentry-feishu'),
+        ('Bug Tracker', 'https://github.com/DC-ET/sentry-feishu/issues'),
+        ('README', 'https://github.com/DC-ET/sentry-feishu/blob/master/README.md'),
     ]
 
     slug = 'FeiShu'
