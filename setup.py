@@ -8,7 +8,7 @@ setup(
     name="sentry-feishu",
     version='v1.0',
     author='yjy',
-    author_email='yangjiayi@accesscorporate.com.cn',
+    author_email='1335823608@qq.com',
     url='https://github.com/DC-ET/sentry-feishu',
     description='A Sentry extension which send errors stats to FeiShu',
     long_description=long_description,
