@@ -25,3 +25,7 @@ $ pip install sentry-feishu
 ![img.png](docs/images/example.png)
 
 点击`href`按钮，打开异常详情页面。
+
+### 如何获取飞书Webhook?
+
+飞书客户端 > 创建群聊 > 群设置 > 群机器人 > 添加机器人 > Custom Bot > 添加 > 获取webhook
